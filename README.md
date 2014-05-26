@@ -1,8 +1,8 @@
-# Still Morning
+# Family Table
 
 ## Enjoyable family organization
 
-This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assemblymade.com/still-morning](https://assemblymade.com/still-morning).
+This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assemblymade.com/family-table](https://assemblymade.com/family-table).
 
 ### How Assembly Works
 
