@@ -1,8 +1,10 @@
-# Family Table
+# [Family Table](http://assemblymade.com/family-table)
 
 ### Enjoyable family organization
 
-This is a product being built by the Assembly community. You can help push this idea forward by visiting [https://assemblymade.com/family-table](https://assemblymade.com/family-table).
+[![Build Status](https://travis-ci.org/asm-products/family-table.png?branch=master)](https://travis-ci.org/asm-products/family-table)
+
+Family Table is an open product that's being built by a fantastic group of people on [Assembly](https://assemblymade.com/family-table). Anybody can join in building this product and earn a stake of the profit.
 
 ### How Assembly Works
 
@@ -10,14 +12,7 @@ Assembly products are like open-source and made with contributions from the comm
 
 Visit [https://assemblymade.com](https://assemblymade.com) to learn more.
 
-# [Family Table](http://assemblymade.com/family-table)
-Enjoyable family organization
-
-[![Build Status](https://travis-ci.org/asm-products/family-table.png?branch=master)](https://travis-ci.org/asm-products/family-table)
-
-Family Table is an open product that's being built by a fantastic group of people on [Assembly](https://assemblymade.com/family-table). Anybody can join in building this product and earn a stake of the profit.
-
-## Contributing
+### Contributing
 
 There are a couple of steps you need to take before contributing:
 
